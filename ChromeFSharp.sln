@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ChromeFSharp", "ChromeFSharp\ChromeFSharp.fsproj", "{BBCDE46E-5B58-442C-8526-839339B6109E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeFSharp.Resource", "ChromeFSharp.Resource\ChromeFSharp.Resource.csproj", "{CE4F4127-0ECB-4CE7-9473-F3ADE7A6092B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCDE46E-5B58-442C-8526-839339B6109E}.Debug|x64.ActiveCfg = Debug|x64
+		{BBCDE46E-5B58-442C-8526-839339B6109E}.Debug|x64.Build.0 = Debug|x64
+		{BBCDE46E-5B58-442C-8526-839339B6109E}.Release|x64.ActiveCfg = Release|x64
+		{BBCDE46E-5B58-442C-8526-839339B6109E}.Release|x64.Build.0 = Release|x64
+		{CE4F4127-0ECB-4CE7-9473-F3ADE7A6092B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CE4F4127-0ECB-4CE7-9473-F3ADE7A6092B}.Debug|x64.Build.0 = Debug|Any CPU
+		{CE4F4127-0ECB-4CE7-9473-F3ADE7A6092B}.Release|x64.ActiveCfg = Release|Any CPU
+		{CE4F4127-0ECB-4CE7-9473-F3ADE7A6092B}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2C36695-D311-4DC6-8F5D-04A4FD0725D0}
+	EndGlobalSection
+EndGlobal
